@@ -15,7 +15,7 @@ exports.handler = async (event) => {
          price: price
       }
     }
-    
+     
     try {
         
         await dynamodb.put(params).promise();
