@@ -1,4 +1,4 @@
-# objetivos:
+# Objetivos:
 - Utilizar os serviços Amazon Cognito, DynamoDB, API Gateway e AWS Lambda;
 - Criar uma API REST no Amazon API Gateway;
 - Criar tabela no Amazon DynamoDB;
